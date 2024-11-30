@@ -1,6 +1,6 @@
 <h1 align="left"> Hi there 👋, Saran here </h1>
 
-<h3 align="left">A passionate Data Scienctist from Bengaluru, India</h3>
+<h3 align="left">A passionate Data Scientist from Bengaluru, India</h3>
 <h3 align="left">📫 How to reach me:  <a href = "mailto: rs.saran.reddy@gmail.com">✉️</a> <a href="https://linkedin.com/in/rs-saran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rs-saran" height="17" width="20" /></a> </h3>
 
 <h3 align="left">My Website <a href="https://rs-saran.github.io/">🔗</a></h3>
